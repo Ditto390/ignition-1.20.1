@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.TemplateMod"
+			"net.ditto.IgnitionMod"
 		],
 		"client": [
-			"com.example.TemplateModClient"
+			"net.ditto.IgnitionModClient"
 		]
 	},
 	"mixins": [
